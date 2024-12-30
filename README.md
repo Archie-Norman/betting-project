@@ -23,3 +23,8 @@ this is also the longest step as you have to manully add the bookie's odds after
 step 4 (EV bets)
 
 the initial balance and scaling doesn't really work but I just ignore the amount it says to bet. this just tells me what has a positive expected outcome using the kelly criterion.
+
+
+betfair-scrape 
+
+That is just some code that gets the odds for every football game on betfair. could easily be changed to get all the odds for each game not just the win loss draw.
